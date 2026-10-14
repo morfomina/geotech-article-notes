@@ -1,0 +1,14 @@
+{
+  "[typst]": {
+    "editor.tabSize": 2,
+    "editor.wordWrap": "on",
+    "editor.formatOnSave": true
+  },
+  "tinymist.exportPdf": "onSave",
+  "tinymist.formatterMode": "typstyle",
+  "files.exclude": {
+    "**/.git": true,
+    "**/__pycache__": true,
+    "**/*.pdf": false
+  }
+}
